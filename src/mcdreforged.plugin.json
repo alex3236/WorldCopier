@@ -1,0 +1,17 @@
+{
+    "id": "",
+    "version": "0.1.0",
+    "name": "",
+    "description": {
+        "en_us": "",
+        "zh_cn": ""
+    },
+    "dependencies": {
+        "mcdreforged": ">=2.2.0"
+    },
+    "resources": [
+        "lang"
+    ], 
+    "author": "Alex3236",
+    "link": "https://github.com/alex3236/"
+}
