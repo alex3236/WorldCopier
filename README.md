@@ -22,7 +22,7 @@
 
 ## 📄 配置文件
 
-第一次运行时，插件会生成配置文件 **config/foo_bar/config.json**。该文件内容如下：
+第一次运行时，插件会生成配置文件 **config/world_cpier/config.json**。该文件内容如下：
 
 ```json5
 {
