@@ -1,0 +1,5 @@
+world_copier:
+  sync: §a同步中...
+  timer: 你设置了自动同步，间隔为 {0} 分钟。
+  aborted: §c同步被取消
+  countdown: '{0} 秒后开始同步。使用 §7{1} abort§r 取消。'

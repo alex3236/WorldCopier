@@ -1,10 +1,10 @@
 {
-    "id": "",
+    "id": "world_copier",
     "version": "0.1.0",
-    "name": "",
+    "name": "World Copier",
     "description": {
-        "en_us": "",
-        "zh_cn": ""
+        "en_us": "Sync your mirror server with main server.",
+        "zh_cn": "同步生存服和镜像服"
     },
     "dependencies": {
         "mcdreforged": ">=2.2.0"
@@ -13,5 +13,5 @@
         "lang"
     ], 
     "author": "Alex3236",
-    "link": "https://github.com/alex3236/"
+    "link": "https://github.com/MCDReforged/WorldCopier"
 }

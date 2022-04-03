@@ -1,0 +1,5 @@
+world_copier:
+  sync: §aSyncing...
+  timer: You have set a timer to sync in {0} minutes.
+  aborted: §cSync aborted
+  countdown: 'Syncing after {0}s. Use §7{1} abort§r to abort.'
