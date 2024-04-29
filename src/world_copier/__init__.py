@@ -89,7 +89,7 @@ def sync(src: CommandSource):
             overwrite_backup_path = config.backup_path
             if os.path.exists(overwrite_backup_path):
                 shutil.rmtree(overwrite_backup_path)
-            copy_worlds(config.sever_path, overwrite_backup_path)
+            copy_worlds(config.server_path, overwrite_backup_path)
         psi.logger.info('Deleting world')
         remove_worlds(config.server_path)
         psi.logger.info('Syncing ' + config.source_path + ' -> ' + config.server_path)
